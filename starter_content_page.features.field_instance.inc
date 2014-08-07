@@ -65,7 +65,7 @@ function starter_content_page_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => '',
-          'image_style' => 'landscape',
+          'image_style' => 'large',
         ),
         'type' => 'image',
         'weight' => 0,
