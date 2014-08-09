@@ -25,7 +25,7 @@ function starter_content_page_field_group_info() {
     'children' => array(
       0 => 'body',
       1 => 'field_image',
-      2 => 'title',
+      2 => 'title_field',
     ),
     'format_type' => 'tab',
     'format_settings' => array(
