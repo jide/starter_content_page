@@ -56,6 +56,9 @@ function starter_content_page_strongarm() {
       'search_result' => array(
         'custom_settings' => FALSE,
       ),
+      'product_list' => array(
+        'custom_settings' => FALSE,
+      ),
     ),
     'extra_fields' => array(
       'form' => array(

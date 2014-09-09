@@ -20,11 +20,13 @@ function starter_content_page_ds_layout_settings_info() {
   $ds_layout->settings = array(
     'regions' => array(
       'central' => array(
-        0 => 'field_image',
-        1 => 'body',
+        0 => 'title_field',
+        1 => 'field_image',
+        2 => 'body',
       ),
     ),
     'fields' => array(
+      'title_field' => 'central',
       'field_image' => 'central',
       'body' => 'central',
     ),
